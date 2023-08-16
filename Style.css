@@ -1,0 +1,25 @@
+.bg-image {
+  background-image: url(https://static.wikia.nocookie.net/bleach/images/a/ab/Aizen.png/revision/latest?cb=20170416191936&path-prefix=pt-br);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+
+h1 {
+  font-family: Arial, sans-serif;
+  color: red;
+  font-size: 20px;
+}
+
+p {
+  font-family: Comic Sans MS;
+  color: violet;
+  font-size: 20px;
+}
+
+.container {
+  text-align: center;
+  font-size: 50px;
+  color: blue;
+}
